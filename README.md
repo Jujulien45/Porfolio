@@ -3,9 +3,9 @@ My portfolio (Jujulien45) here I create and host a web page on github for my por
 
 Every line of code has been writen by myself so that I learn while creating my porfolio.
 
-## design rules
+## design guidlines
 
-I still have a lot to learn in design and I don't really know how to make things visualy apealing so I decided to make an IA generate those general rules for making a clean and pretty web page.
+I still have a lot to learn in design and I don't really know how to make things visualy apealing so I decided to make an IA generate those general guidlines for making a clean and pretty web page.
 
 - Base spacing unit: ...px
 - Type scale: ... / ... / ... / ...
