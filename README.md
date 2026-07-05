@@ -15,7 +15,7 @@ I still have a lot to learn in design and I don't really know how to make things
 - Signature element: ...
 
 
-result:
+And I filled it in myself.
 
 - Base spacing unit:    10px
 - Type scale: caption:  10px / body: 16px / subhead: 24px / title: 60px
