@@ -1,0 +1,7 @@
+nav {
+    display: flexbox;
+}
+
+nav > ul {
+    float: left;
+}
