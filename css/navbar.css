@@ -3,11 +3,13 @@
     margin: 0;
     padding: 0;
     display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
 }
 
 #navbar li {
-    margin-right: 50px;
-    
+    color: inherit;
 }
 
 #navbar a {
