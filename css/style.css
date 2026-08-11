@@ -20,7 +20,7 @@
 
 body {
     font-family: "JetBrains Mono";
-    background-color: #1F1F29; /* background image here */
+    background-image: url(../images/background.jpg);
     color: #e6d7bf;
     border-color: #31313b;
 }
