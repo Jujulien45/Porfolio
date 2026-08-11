@@ -23,6 +23,8 @@ body {
     background-image: url(../images/background.jpg);
     color: #e6d7bf;
     border-color: #31313b;
+    padding: 0%;
+    margin: 0%;
 }
 
 .important {
