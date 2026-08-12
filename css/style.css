@@ -1,3 +1,23 @@
+@font-face {
+    font-family: "IBM Plex Sans";
+    src: url(../fonts/IBMPlexSans-Regular.woff2) format("woff2");
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "IBM Plex Sans";
+    src: url(../fonts/IBMPlexSans-SemiBold.woff2) format("Woff2");
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "JetBrains Mono";
+    src: url(../fonts/JetBrainsMono-Regular.ttf);
+    font-display: swap;
+}
+
 .caption {
     font-size: 10px;
     font-weight: 300;
@@ -16,21 +36,22 @@
 .title {
     font-size: 60px;
     font-weight: 600;
-}
-
-body {
-    font-family: "JetBrains Mono";
-    background-image: url(../images/background.jpg);
-    color: #e6d7bf;
-    border-color: #31313b;
-    padding: 0%;
-    margin: 0%;
+    text-align: center;
 }
 
 .important {
-    font-family: "IBM Plex Sans";
+    font-family: "IBM Plex Sans", sans-serif;
 }
 
 .accent {
     color: #7d1ee9;
+}
+
+
+body {
+    font-family: "JetBrains Mono", sans-serif;
+    background-image: url(../images/background.jpg);
+    color: #e6d7bf;
+    padding: 0%;
+    margin: 0%;
 }
