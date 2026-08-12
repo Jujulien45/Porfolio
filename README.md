@@ -19,10 +19,10 @@ I still have a lot to learn in design and I don't really know how to make things
 - Signature element: ...
 
 
-And I filled it in myself.
+And I filled it in myself (I switched to rem units, better for phones).
 
-- Base spacing unit:    10px
-- Type scale: caption:  10px / body: 16px / subhead: 24px / title: 60px
+- Base spacing unit:    1rem
+- Type scale: caption:  0.5rem / body: 0.8rem / subhead: 1.2rem / title: 3rem
 - Fonts:                display: consolas or JetBrains Mono, body: IBM Plex Sans
 - Neutral colors:       bg: black stars or #1F1F29, text: #e6d7bf, border: #31313b
 - Accent color:         #7d1ee9

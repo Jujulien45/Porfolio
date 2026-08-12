@@ -11,14 +11,14 @@
 
 #navbar li {
     color: inherit;
-    margin: 20px;
+    margin: 2rem;
 }
 
 #navbar a {
     text-decoration: none;
     color: inherit;
-    padding: 10px;
-    padding-inline: 80px;
+    padding: 1rem;
+    padding-inline: 4rem;
     border-radius: 10px;
     border-bottom: 3px solid #31313b;
     background-color: #1F1F29;
