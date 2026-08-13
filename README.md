@@ -11,7 +11,6 @@ Every line of code has been writen by myself so that I learn while creating my p
 
 I still have a lot to learn in design and I don't really know how to make things visualy apealing so I decided to make an IA generate those general guidlines for making a clean and pretty web page.
 
-- Base spacing unit: ...px
 - Type scale: ... / ... / ... / ...
 - Fonts: display = ..., body = ...
 - Neutral colors: bg ..., text ..., border ...
@@ -19,9 +18,8 @@ I still have a lot to learn in design and I don't really know how to make things
 - Signature element: ...
 
 
-And I filled it in myself (I switched to rem units, better for phones).
+And I filled it in myself (I switched to rem, vw and vh units, better for phones scaling).
 
-- Base spacing unit:    1rem
 - Type scale: caption:  0.5rem / body: 0.8rem / subhead: 1.2rem / title: 3rem
 - Fonts:                display: consolas or JetBrains Mono, body: IBM Plex Sans
 - Neutral colors:       bg: black stars or #1F1F29, text: #e6d7bf, border: #31313b

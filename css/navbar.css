@@ -7,18 +7,21 @@
     margin: 0%;
     display: flex;
     justify-content: space-evenly;
+    padding: 0%;
 }
 
 #navbar li {
     color: inherit;
-    margin: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 #navbar a {
     text-decoration: none;
     color: inherit;
-    padding: 1rem;
-    padding-inline: 4rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-inline: 6vw;
     border-radius: 10px;
     border-bottom: 3px solid #31313b;
     background-color: #1F1F29;
