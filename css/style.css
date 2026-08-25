@@ -49,6 +49,23 @@
     color: #7d1ee9;
 }
 
+.rounded {
+    border-radius: 1rem;
+}
+
+.bg-black {
+    background-color: #1F1F29;
+}
+
+.bg-stars {
+    background-image: url(../images/background.jpg);
+    background-attachment: fixed;
+    background-position: inherit;
+}
+
+.transparent {
+    opacity: 70%;
+}
 
 body {
     font-family: "JetBrains Mono", sans-serif;
