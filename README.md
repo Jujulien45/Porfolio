@@ -25,3 +25,17 @@ And I filled it in myself (I switched to rem, vw and vh units, better for phones
 - Neutral colors:       bg: black stars or #1F1F29, text: #e6d7bf, border: #31313b
 - Accent color:         #7d1ee9
 - Signature element:    ...
+
+## How to launch the project localy ?
+
+Firstly you need Ruby installed on your machine
+Then install bundler and jekyll with:
+´gem install bundler jekyll´
+
+Then go to the root of the project and run
+´bundle init´
+then
+´bundle add jekyll´
+
+When that's done you can just run this to host localy the web page and see live changes.
+´bundle exec jekyll serve´
